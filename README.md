@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aogaga
-- 👀 I’m interested in building highly scalable and highlly available distributed systems/
+- 👀 I’m interested in building highly scalable and highly available distributed systems/
 - 🌱 I’m currently learning GO
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
